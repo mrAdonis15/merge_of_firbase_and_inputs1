@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660402529077",
+    "project_id": "merge-of-firebase",
+    "storage_bucket": "merge-of-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660402529077:android:36f3e30b5da3b2f178e27c",
+        "android_client_info": {
+          "package_name": "com.adonis_development12345.merge_of_firbase_and_inputs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660402529077-d6a9o7gek69c28g080m0o23334vsk7om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEquQcwczOJe8b2Blrg0jXSUCE5QuF5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660402529077-d6a9o7gek69c28g080m0o23334vsk7om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
